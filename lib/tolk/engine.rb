@@ -2,6 +2,6 @@ require 'rails'
 
 module Tolk
   class Engine < Rails::Engine
-    engine_name :tolk
+    'tolk'
   end
 end
