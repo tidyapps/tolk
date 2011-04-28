@@ -47,6 +47,7 @@ module Tolk
       'tr'    => 'Turkish',
       'uk'    => 'Ukrainian',
       'vi'    => 'Vietnamese',
+      'cy'    => 'Welsh',
       'zh-CN' => 'Chinese (Simplified)',
       'zh-TW' => 'Chinese (Traditional)'
     }
